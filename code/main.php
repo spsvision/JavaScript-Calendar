@@ -13,8 +13,8 @@
       <div class="modal-body">
       	  <button id="btnPrev" type="button">Prev</button>
 	  <button id="btnNext" type="button">Next</button>
+	  <!-- divCal is the representation of the calendar found from cal.php -->
   	  <div  id="divCal"></div>
-
       </div>
       <div class="modal-footer">
           <div class="col-md-12">
